@@ -1,0 +1,20 @@
+define({
+  "name": "Agent Stats API",
+  "version": "0.1.0",
+  "description": "API for https://www.agent-stats.com",
+  "title": "Agent Stats API",
+  "url": "https://api.agent-stats.com",
+  "header": {
+    "title": "Important note",
+    "content": "<h2>Important Note</h2>\n<p>All requests must include your API key in Header field <em>AS-Key</em></p>\n<h3>example:</h3>\n<blockquote>\n<p>AS-Key: 3hr82hgo</p>\n</blockquote>\n"
+  },
+  "sampleUrl": false,
+  "defaultVersion": "0.0.0",
+  "apidoc": "0.3.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2025-12-19T22:23:56.175Z",
+    "url": "http://apidocjs.com",
+    "version": "0.17.6"
+  }
+});
